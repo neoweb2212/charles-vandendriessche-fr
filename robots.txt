@@ -3,3 +3,5 @@ Disallow: /images/
 
 User-agent: ia_archiver
 Disallow: /
+
+sitemap:https://www.charles-vandendriessche.fr/sitemap.xml
