@@ -1,7 +1,10 @@
 User-agent: *
-Disallow: /images/
-
-User-agent: ia_archiver
-Disallow: /
+Disallow: /images/logos/
+Disallow: /less/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /SCSS/
+Disallow: /.vscode/
 
 sitemap:https://www.charles-vandendriessche.fr/sitemap.xml
