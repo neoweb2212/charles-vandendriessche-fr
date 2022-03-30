@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"img"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"positio",
+				"position-relative"
+			],
+			[
+				"fs",
+				"fs-13"
+			],
+			[
+				"b",
+				"blockquote"
+			],
+			[
+				"comm",
+				"communication"
+			],
+			[
+				"al",
+				"align"
+			],
+			[
+				"Campagne",
+				"campagnes-publicitaires"
+			],
+			[
+				"o",
+				"obfuscation--"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "gthjkl"
+					},
+					"BgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAZ3Roamts",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install p",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/chvan/AppData/Local/Temp/Rar$DIa131604.44406/Default (Linux).sublime-keymap",
+		"/C/Users/chvan/AppData/Local/Temp/Rar$DRa131604.44641/SublimeZilla-master/Default (Linux).sublime-keymap",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/qui-suis-je.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/CNAME",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/index.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/sitemap.xml",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/consultant-marketing-arras.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/content-marketing.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/consultant-seo-region-haut-de-france.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/consultant-marketing-valenciennes.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/consultant-marketing-lille.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/consultant-marketing-douai.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/devis.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/consultant-marketing-cambrai.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/mentions-legales.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/referencement-naturel.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/sitemap.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/strategie-marketing.html",
+		"/C/Users/chvan/Dropbox/Service _informatique/Webmaster/Templates/Templates-HTML/selfown/default/about.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/passion-animaux.fr/index.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/charles-vandendriessche-fr/campagnes-publicitaires.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/campagnes-publicitaires.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/referencement-naturel.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/articles-sponsorises-fr/CNAME",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/articles-sponsorises-fr/index.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/index.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/passion-animaux.fr/CNAME",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/marketing-internet-secret.com/index.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/literie-de-france-com/index.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/marketing-internet-secret.com/CNAME",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/ecolinks-fr/CNAME",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/ecolinks-fr/index.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/creersonsiteinternet-fr/CNAME",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/creersonsiteinternet-fr/index.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/concours-elegance-com/README.md",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/concours-elegance-com/CNAME",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/nellie-fr/index.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/concours-elegance-com/index.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/alloremorquage-fr/index.html",
+		"/C/Users/chvan/OneDrive/Documents/GitHub/alloremorquage-fr/README.md",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/devis.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/mentions-legales.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/consultant-seo-region-haut-de-france.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/qui-suis-je.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/content-marketing.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/strategie-marketing.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/js/obfuscation.js",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/css/style.css",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/js/app.js",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/js/particles.js",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/conseils-seo.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/about.html",
+		"/C/Users/chvan/Dropbox/Service _informatique/Webmaster/Templates/Templates-HTML/selfown/Documentation/index.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/services.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/blog-detail.html",
+		"/C/Users/chvan/Dropbox/Service _informatique/Webmaster/Templates/Templates-HTML/selfown/default/index.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/Sites HTML/Charles-van-den-driessche/contact.html",
+		"/C/Users/chvan/Dropbox/Service _informatique/Webmaster/Templates/Templates-HTML/bootstrap-btob/js/bootstrap.min.js",
+		"/C/Users/chvan/Dropbox/Service _informatique/Webmaster/Templates/Templates-HTML/bootstrap-btob/index.html",
+		"/C/Users/chvan/Dropbox/Service _informatique/Webmaster/Templates/Templates-HTML/html-alpha/index.html",
+		"/C/Users/chvan/Dropbox/production-développement-création-analyse/Projets/finance-facile.com/.htaccess",
+		"/C/Users/chvan/OneDrive/Documents/facture.htm"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"l’annonceur et en agence",
+			"lille",
+			"lill",
+			"connaissances du copywriting",
+			"archive",
+			"consultant en marketing numérique",
+			" l’ensemble des canaux de vente",
+			"canaux",
+			"canaux*",
+			"canaux",
+			"canaux de vente",
+			"2022-03-29T09:49:29+00:00",
+			"*",
+			"2022-03-29T09:49:29+00:00",
+			"arras",
+			"consutlant",
+			"arras",
+			"strategie",
+			"Valenciennes",
+			"arras",
+			"Cambrai",
+			"cambrai",
+			"awesom",
+			"arras",
+			"valenciennes",
+			"cambrai",
+			"Arras",
+			"arras",
+			"valencienne",
+			"arras",
+			"Cambrai",
+			"cambrai",
+			"Douai",
+			"cambrai",
+			"consutlant",
+			"consutl",
+			"consutlant",
+			"consultant",
+			"Lille",
+			"Douai",
+			"<hr>",
+			"<hr",
+			"fil",
+			"consultant",
+			"certifié",
+			"depuis 20",
+			"j'assi",
+			"services",
+			"service",
+			"charles-vdd",
+			"class=\"phon",
+			"conseil webm",
+			"title",
+			"logo",
+			"charles",
+			"pharmacy",
+			"house",
+			"devis",
+			"telephon",
+			"telep",
+			"pharm",
+			"pharma*",
+			"pharma",
+			"Visibilité",
+			"visibi",
+			"Visibilit",
+			"Visibilité dans",
+			"Visibilité dans les recherches",
+			"pharmacy",
+			"SEO",
+			"entreprise",
+			"?\n",
+			"khris",
+			"it's",
+			"<body class=",
+			"<body",
+			"<bod",
+			"<body",
+			"body",
+			"bourrelly",
+			"artic",
+			"hero"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"valenciennes",
+			"consultant",
+			"cambrai",
+			"valenciennes",
+			"cambrai",
+			"arras",
+			"douai",
+			"lille",
+			"Valenciennes",
+			"Cambrai",
+			"consultant"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "campagnes-publicitaires.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
