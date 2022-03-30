@@ -1,5 +1,6 @@
 User-agent: *
-Disallow: /images/logos/
+Disallow: /fonts
+Disallow: /logos
 Disallow: /less/
 Disallow: /css/
 Disallow: /fonts/
