@@ -7,4 +7,6 @@ Disallow: /js/
 Disallow: /SCSS/
 Disallow: /.vscode/
 
+
+
 sitemap:https://www.charles-vandendriessche.fr/sitemap.xml
