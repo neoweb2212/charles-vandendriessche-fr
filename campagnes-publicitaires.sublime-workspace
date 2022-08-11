@@ -60,7 +60,7 @@
 						"characters": "gthjkl"
 					},
 					"BgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					16,
@@ -68,7 +68,7 @@
 					"left_delete",
 					null,
 					"AQAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAZ3Roamts",
-					"AQAAAAAAAAABAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
 				]
 			]
 		}
@@ -322,6 +322,8 @@
 						"settings":
 						{
 							"auto_name": "",
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -366,6 +368,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 132.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
